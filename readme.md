@@ -1,4 +1,4 @@
-# Quiz Week 10
+# Angular Quiz
 
 ## Instructions
 
